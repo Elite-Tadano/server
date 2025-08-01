@@ -688,7 +688,7 @@ export default function FriendshipDayWebsite() {
                   isDark ? "text-white" : "text-gray-800"
                 }`}
               >
-                Background Music
+                Choose the song you like to listen...
               </h3>
               {audioLoading && (
                 <div className="animate-spin rounded-full h-4 w-4 border-2 border-pink-500 border-t-transparent"></div>
